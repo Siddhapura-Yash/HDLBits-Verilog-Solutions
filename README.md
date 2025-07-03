@@ -23,7 +23,7 @@ Over the past **1.5+ months**, I’ve been solving problems consistently, coveri
 👉 https://hdlbits.01xz.net/wiki/Special:VlgStats/805403D6008E21AF
 
 ## 📁 Project Structure (Example)
-
+```
 HDLBits-Verilog-Solutions/
 ├── Basics/
 ├── Gates/
@@ -33,7 +33,7 @@ HDLBits-Verilog-Solutions/
 ├── FSMs/
 └── Testbenches/ (if available)
 
-
+```
 ## 🚀 Why This Project?
 
 Completing these problems has helped me:
