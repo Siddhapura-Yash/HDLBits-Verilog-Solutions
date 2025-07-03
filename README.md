@@ -32,7 +32,6 @@ HDLBits-Verilog-Solutions/
 ├── Sequential/
 ├── FSMs/
 └── Testbenches/ (if available)
-
 ```
 ## 🚀 Why This Project?
 
